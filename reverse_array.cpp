@@ -29,14 +29,11 @@ int main()
 	}
 int t;
 cin>>t;
-//we can use t to rotate the array as many times we want 
-//for the given question the while(t--) can be removed if we want to reverse the array only one time
-while(t--)
-{
+
 	reverse(arr,n);
 
 	
-}
+
 for(i=0;i<n;i++)
 	{
 		cout<<arr[i]<<endl;
