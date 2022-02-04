@@ -1,2 +1,2 @@
 # dsa-basic
-this repository contains problems of basic level that evryone should do before going into depth of data structures and algorithm. problems includes of topic like arrays,search and sorting, 2d arrays and strings and few miscellaneous examples.
+hey everyone!!!Here i have added solutions of data structure and algorithms questions of mostly easy to medium level. Advanced topic not added 
