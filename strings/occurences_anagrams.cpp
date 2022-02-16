@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-//BRUTE FORCE
 
 int count(string str1 ,  string str2)
 {
