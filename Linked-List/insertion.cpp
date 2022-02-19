@@ -139,5 +139,5 @@ int main()
 	node *a2 = new node(20);
 	node *head = a1;
 	a1->next a2;
-	*/
+	*/*
 }
